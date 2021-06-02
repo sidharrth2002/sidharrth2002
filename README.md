@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Sidharrth 👋
 
-<!--
-**sidharrth2002/sidharrth2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a full stack data scientist.
+I enjoy automating, writing servers, web applications, building machine learning models and employing them to build the applications of tomorrow. 
 
-Here are some ideas to get you started:
+## Technical Proficiency
+As I live on the crossroads between full stack development and machine learning, I am proficient across a variety of stacks including:
+- Python (Tensorflow, Keras, Scikitlearn)
+- Javascript, Typescript (React.js (Redux, MobX), Node.js (Express.js, Nest.js, Apollo), React Native)
+- Dart (Flutter)
+- C, C++, Java (JavaFX)
+- APIs: REST, GraphQL
+- Databases: PostgreSQL, MongoDB, MySQL, Redis
+- Cloud: Heroku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+and read my [blog].
+
+## Status Quo
+- 🔭 I'm currently working as a part-time software developer and am a second-year CS student.
+- 🌱 I'm currently learning object detection algorithms, GANs and Next.js
+- 👯 I'm looking to collaborate on startup projects.
+- 💬 Ask me about: full stack development, machine learning
+- 📫 How to reach me: sidharrth2002@gmail.com
+- 😄 Pronouns: He/Him
+
+[![Sidharrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharrth2002&show_icons=true)](https://github.com/sidharrth2002/github-readme-stats)
+
+[site]: http://mathsforgeeks.org/
+[blog]: https://mathsforgeeks.org/blog
+[linkedin]: https://www.linkedin.com/in/sidharrth-nagappan/
