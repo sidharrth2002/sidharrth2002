@@ -12,6 +12,7 @@ As I live on the crossroads between full stack development and machine learning,
 - APIs: REST, GraphQL
 - UI: CSS3, Bootstrap, Bulma, Ant Design, Chakra UI
 - Databases: PostgreSQL, MongoDB, MySQL, Redis
+- ORMs: Sequelize, TypeORM
 - Cloud: Heroku
 
 ### Connect with me
