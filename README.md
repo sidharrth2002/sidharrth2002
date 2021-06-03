@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidharrth 👋
 
-## I am a full stack data scientist.
+## I am a full stack data scientist 🚀 (full stack dev + data scientist).
 I enjoy automating, writing servers, web applications, building ML models and employing them to build the applications of tomorrow.
 
 ## Technical Proficiency
