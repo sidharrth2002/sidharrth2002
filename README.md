@@ -8,7 +8,7 @@ As I live on the crossroads between full stack development and machine learning,
 - Python (Tensorflow, Keras, Scikitlearn, Pandas)
 - Javascript, Typescript (React.js (Redux, MobX), Node.js (Express.js, Nest.js, Apollo), React Native)
 - Dart (Flutter)
-- C, C++, Java (JavaFX)
+- C, C++, Java (JavaFX), PHP
 - APIs: REST, GraphQL
 - UI: CSS3, Bootstrap, Bulma, Ant Design, Chakra UI
 - Databases: PostgreSQL, MongoDB, MySQL, Redis
