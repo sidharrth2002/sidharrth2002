@@ -5,7 +5,7 @@ I enjoy automating, writing servers, web applications, building machine learning
 
 ## Technical Proficiency
 As I live on the crossroads between full stack development and machine learning, I am proficient across a variety of stacks including:
-- Python (Tensorflow, Keras, Scikitlearn)
+- Python (Tensorflow, Keras, Scikitlearn, Pandas)
 - Javascript, Typescript (React.js (Redux, MobX), Node.js (Express.js, Nest.js, Apollo), React Native)
 - Dart (Flutter)
 - C, C++, Java (JavaFX)
