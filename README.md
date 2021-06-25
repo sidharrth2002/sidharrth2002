@@ -28,6 +28,8 @@ and read my [blog].
 - 📫 How to reach me: sidharrth2002@gmail.com
 - 😄 Pronouns: He/Him
 
+
+### Development Time
 <!--START_SECTION:waka-->
 ```text
 TypeScript   16 hrs 39 mins  ██████████████████▓░░░░░░   74.95 % 
