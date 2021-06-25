@@ -28,6 +28,9 @@ and read my [blog].
 - 📫 How to reach me: sidharrth2002@gmail.com
 - 😄 Pronouns: He/Him
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Sidharrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharrth2002&show_icons=true)](https://github.com/sidharrth2002/github-readme-stats)
 
 [site]: http://mathsforgeeks.org/
