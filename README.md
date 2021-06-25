@@ -29,6 +29,13 @@ and read my [blog].
 - 😄 Pronouns: He/Him
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   16 hrs 39 mins  ██████████████████▓░░░░░░   74.95 % 
+Python       2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown     48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+GraphQL      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
 <!--END_SECTION:waka-->
 
 [![Sidharrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharrth2002&show_icons=true)](https://github.com/sidharrth2002/github-readme-stats)
