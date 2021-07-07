@@ -32,11 +32,11 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   33 hrs 7 mins   ██████████████████░░░░░░░   72.21 % 
-TypeScript   6 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-JSON         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Other        51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Git Config   50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript   32 hrs 31 mins  ██████████████████▒░░░░░░   73.81 % 
+TypeScript   5 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+JSON         1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Git Config   50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YAML         49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
 
