@@ -32,8 +32,7 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-JSON   50 mins         ████████████████████████▒   97.66 % 
-CSV    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
