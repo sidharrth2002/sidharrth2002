@@ -32,7 +32,7 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   27 mins         █████████████████████████   99.81 % 
 ```
 <!--END_SECTION:waka-->
 
