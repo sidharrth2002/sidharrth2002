@@ -22,7 +22,7 @@ and read my [blog].
 
 ## Status Quo
 - 🔭 I'm currently working as a part-time software developer and am a second-year CS student.
-- 🌱 I'm currently learning object detection algorithms, GANs and Next.js
+- 🌱 I'm currently learning natural language processing
 - 👯 I'm looking to collaborate on startup projects.
 - 💬 Ask me about: full stack development, machine learning
 - 📫 How to reach me: sidharrth2002@gmail.com
