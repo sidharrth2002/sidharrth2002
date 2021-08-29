@@ -32,10 +32,9 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-Other   8 hrs 41 mins   ███████████████████████▒░   93.46 % 
-HTML    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-CSS     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-CSV     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other   8 hrs 41 mins   ████████████████████████▓   98.66 % 
+HTML    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+CSV     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
