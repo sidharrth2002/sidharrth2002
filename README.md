@@ -32,8 +32,10 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-Other   12 hrs 27 mins  ████████████████████████▓   98.26 % 
-CSV     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other      10 hrs 38 mins  ████████████████████████▒   97.81 % 
+Python     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
