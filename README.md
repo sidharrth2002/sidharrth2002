@@ -32,11 +32,11 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 30 mins   ██████████████████░░░░░░░   72.35 % 
-Other        1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
-BibTeX       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python       5 hrs 30 mins   ████████████████▓░░░░░░░░   66.84 % 
+Other        1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+BibTeX       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
