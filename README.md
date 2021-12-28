@@ -24,11 +24,11 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.33 % 
-JSON         2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Other        2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 % 
-SQL          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Bash         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JavaScript   4 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   37.06 % 
+Other        3 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
+JSON         2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Bash         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 <!--END_SECTION:waka-->
 
