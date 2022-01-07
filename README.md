@@ -24,11 +24,11 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-Other        5 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.40 % 
-TeX          4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Python       4 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 % 
-JavaScript   1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-HTML         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Other        7 hrs           █████████▓░░░░░░░░░░░░░░░   38.46 % 
+Python       5 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
+TeX          4 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+HTML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
