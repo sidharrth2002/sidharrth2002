@@ -24,10 +24,9 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 ```text
-Python       6 hrs 42 mins   ███████████████████░░░░░░   75.61 % 
-TeX          1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
-TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python     9 hrs 1 min     ████████████████████░░░░░   80.48 % 
+TeX        2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
