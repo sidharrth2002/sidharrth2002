@@ -23,13 +23,16 @@ and read my [blog].
 
 ### Development Time
 <!--START_SECTION:waka-->
+
 ```text
-Python       11 hrs 9 mins   ██████████████▓░░░░░░░░░░   58.40 % 
-HTML         4 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.94 % 
-TypeScript   2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python       9 hrs 50 mins   ████████████▒░░░░░░░░░░░░   49.86 %
+TypeScript   4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+HTML         4 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+CSV          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Push Frequency
