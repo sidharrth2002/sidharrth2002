@@ -1,6 +1,5 @@
 ### Hi there, I'm Sidharrth 👋
 
-## I am a full stack developer 🚀.
 I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS and working on NLP research, particularly in the field of text scoring using linear attention transformers. My resume is available [here](https://mathsforgeeks.org/assets/resume.pdf).
 
 ## Technical Proficiency
