@@ -24,12 +24,12 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.99 %
-JavaScript   4 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-TeX          3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-HTML         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Markdown     1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-TypeScript   1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Python       6 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   36.99 %
+JavaScript   4 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+TeX          3 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+HTML         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+TypeScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
