@@ -24,10 +24,10 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-TeX          3 hrs 34 mins   ██████████████▒░░░░░░░░░░   57.83 %
-TypeScript   2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.64 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TeX          4 hrs 9 mins    ███████████████▒░░░░░░░░░   61.48 %
+TypeScript   2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.39 %
+Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
