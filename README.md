@@ -3,7 +3,7 @@
 I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS and working on NLP research, particularly in the field of text scoring using linear attention transformers. My resume is available [here](https://mathsforgeeks.org/assets/resume.pdf).
 
 ## Technical Proficiency
-As I live on the crossroads between full stack development and machine learning, I am proficient across a variety of stacks including:
+I am proficient across a variety of stacks including:
 - Python (Tensorflow, Keras, Pytorch, Flask, OpenCV)
 - Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native)
 - Dart (Flutter)
