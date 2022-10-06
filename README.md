@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidharrth 👋
 
-I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS and working on NLP research, particularly in the field of text scoring using linear attention transformers. My resume is available [here](https://mathsforgeeks.org/assets/resume.pdf).
+I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS, working on ML research and taking masters courses at Politecnico di Torino in Italy as an exchange student. 
 
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
@@ -36,6 +36,6 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ### Push Frequency
 [![Sidharrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharrth2002&show_icons=true)](https://github.com/sidharrth2002/github-readme-stats)
 
-[site]: http://mathsforgeeks.org/
+[site]: https://sidharrth.me/
 [blog]: https://mathsforgeeks.org/blog
 [linkedin]: https://www.linkedin.com/in/sidharrth-nagappan/
