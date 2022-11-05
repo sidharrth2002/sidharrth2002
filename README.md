@@ -24,10 +24,10 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 59 mins   ███████████████░░░░░░░░░░   59.74 %
-TeX        2 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.64 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python     5 hrs 7 mins    ████████████████▓░░░░░░░░   67.26 %
+TeX        2 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
