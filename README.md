@@ -24,8 +24,10 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   3 mins          █████████████████████████   99.63 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+YAML         11 mins         ████████████▓░░░░░░░░░░░░   51.13 %
+TypeScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Markdown     4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
