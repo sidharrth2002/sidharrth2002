@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidharrth 👋
 
-I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS, working on ML research and taking masters courses at Politecnico di Torino in Italy as an exchange student. 
+I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS, working on ML research and taking computer science and engineering graduate courses at Politecnico di Torino in Italy as an exchange student. 
 
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
