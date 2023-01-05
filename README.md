@@ -24,8 +24,12 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Python   17 hrs 55 mins  █████████████████████████   99.44 %
-BibTeX   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python       15 hrs 7 mins   ██████████████████████▒░░   88.93 %
+JavaScript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+BibTeX       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
