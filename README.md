@@ -24,12 +24,9 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   20 hrs 21 mins  ████████████████████▒░░░░   81.72 %
-Python       3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-CSV          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   21 hrs 26 mins  █████████████████▓░░░░░░░   70.92 %
+Python       6 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+Other        1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
