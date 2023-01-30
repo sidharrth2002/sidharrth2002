@@ -4,7 +4,7 @@ I dabble in full stack JS, DevOps and natural language processing; I'm currently
 
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
-- Python (Tensorflow, Keras, Pytorch, Flask, OpenCV)
+- Python (Tensorflow, Keras, Pytorch, Flask, FastAPI, OpenCV)
 - Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native)
 - Dart (Flutter)
 - C, C++, Java (JavaFX), PHP
