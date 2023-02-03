@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidharrth 👋
 
-I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS, working on ML research. I am an avid hackathon hacker, with a passion for open-source development. Throughout my undergraduate years, I built tech as part of a 2-man team for a Series-B startup, grew a Google Developer community on campus, interned [@airasia](https://airasia.com/), [@lava-x](https://lavax.co/), [@auronex](http://auronex.com/), did an exchange semester [@polito](https://www.polito.it/) and co-founded [Sambal SOS](https://www.sambalsos.com/).
+I dabble in full stack JS, DevOps and natural language processing; I'm currently maintaining Sambal SOS, working on ML research. I am an avid hackathon hacker, with a passion for open-source development. Throughout my undergraduate years, I built tech as part of a 2-man team for a Series-B startup, grew a Google Developer community on campus, interned [@airasia](https://airasia.com/), [@lava-x](https://lavax.co/), [@auronex](http://auronex.com/), did an exchange semester [@polito](https://www.polito.it/), co-founded [Sambal SOS](https://www.sambalsos.com/) and did research stints at Monash and MMU in multimodal speech and visual analysis. 
 
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
