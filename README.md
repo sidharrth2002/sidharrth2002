@@ -24,9 +24,8 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 7 mins    ████████████████░░░░░░░░░   63.92 %
-TeX          2 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Python       2 hrs 22 mins   ████████████████████▓░░░░   82.34 %
+Other        18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
 <!--END_SECTION:waka-->
