@@ -24,9 +24,8 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   3 mins          █████████████████▓░░░░░░░   70.53 %
-TeX          1 min           ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git Config   3 mins          █████████████████▓░░░░░░░   71.07 %
+TeX          1 min           ███████▒░░░░░░░░░░░░░░░░░   28.93 %
 ```
 
 <!--END_SECTION:waka-->
