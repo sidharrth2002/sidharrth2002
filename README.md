@@ -24,8 +24,7 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   3 mins          █████████████████▓░░░░░░░   71.07 %
-TeX          1 min           ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
