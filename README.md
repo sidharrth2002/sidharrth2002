@@ -24,10 +24,7 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.17 %
-TypeScript   1 hr 45 mins    ██████████▒░░░░░░░░░░░░░░   41.16 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
