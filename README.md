@@ -24,7 +24,11 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash         52 mins         ███████████████▓░░░░░░░░░   62.13 %
+TypeScript   28 mins         ████████▒░░░░░░░░░░░░░░░░   33.71 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
