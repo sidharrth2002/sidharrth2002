@@ -26,11 +26,11 @@ and read my [blog].
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 53 mins   ████████████████████▓░░░░   82.34 %
-Python       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Bash         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-TSConfig     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+TypeScript     7 hrs 53 mins   ███████████████████░░░░░░   76.66 %
+TeX            59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Python         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JavaScript     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TSConfig       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
