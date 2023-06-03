@@ -25,12 +25,12 @@ and read my [blog].
 ### Development Time
 <!--START_SECTION:waka-->
 
-```text
-TypeScript     7 hrs 53 mins   ███████████████████░░░░░░   76.66 %
-TeX            59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Python         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-JavaScript     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-TSConfig       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+```txt
+TypeScript     7 hrs 53 mins   ███████████████████▒░░░░░   77.17 %
+TeX            59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Markdown       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Python         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
