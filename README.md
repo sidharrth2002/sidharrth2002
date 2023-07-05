@@ -24,10 +24,10 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 43 mins    █████████████████████░░░░   84.16 %
-Markdown   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     52 mins         ██████████████████▒░░░░░░   72.94 %
+Markdown   18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+CSV        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
