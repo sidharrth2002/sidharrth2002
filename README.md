@@ -24,7 +24,8 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX    25 mins         ████████████████████████▓   99.08 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
