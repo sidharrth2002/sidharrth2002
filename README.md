@@ -24,8 +24,10 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX    25 mins         ████████████████████████▓   99.08 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+TeX          25 mins         █████████████░░░░░░░░░░░░   52.10 %
+TypeScript   18 mins         █████████▓░░░░░░░░░░░░░░░   38.43 %
+MDX          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
