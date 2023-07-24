@@ -24,9 +24,10 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr            ████████████████████████▒   97.17 %
-TeX        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python     3 hrs 11 mins   ████████████████████████▓   98.15 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+CSV        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
