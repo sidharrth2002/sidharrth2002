@@ -24,10 +24,10 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform        6 hrs 4 mins    ██████████████████████▒░░   89.26 %
-YAML             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Python           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Markdown         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Terraform        2 hrs 11 mins   ██████████████████████░░░   88.36 %
+Python           16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
