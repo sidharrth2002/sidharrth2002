@@ -24,8 +24,11 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          ████████████████████░░░░░   80.11 %
-TeX     0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Terraform   10 mins         ███████████████████▓░░░░░   78.75 %
+Other       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+TeX         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
