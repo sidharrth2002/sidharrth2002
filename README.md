@@ -24,9 +24,9 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.21 %
+Python       5 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.20 %
 Bash         1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-SQL          1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+SQL          1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
 Terraform    1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 YAML         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
