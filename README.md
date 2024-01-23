@@ -24,11 +24,11 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.34 %
-YAML         2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-JSON         2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-Terraform    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Markdown     1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Python       6 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   35.73 %
+JSON         4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+YAML         3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Terraform    1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Markdown     1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 ```
 
 <!--END_SECTION:waka-->
