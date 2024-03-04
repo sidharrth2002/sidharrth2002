@@ -24,11 +24,11 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON        1 hr 58 mins    █████████████░░░░░░░░░░░░   51.49 %
-Python      1 hr 21 mins    █████████░░░░░░░░░░░░░░░░   35.37 %
-Makefile    17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-YAML        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-CSV         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON         1 hr 58 mins    ████████▒░░░░░░░░░░░░░░░░   33.35 %
+Python       1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+TypeScript   1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+MDX          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Makefile     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
