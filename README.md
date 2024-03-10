@@ -26,7 +26,7 @@ I am proficient across a variety of stacks including:
 ```txt
 Terraform         4 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
 TypeScript        2 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-MDX               1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+MDX               1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
 Java Properties   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 YAML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
