@@ -27,7 +27,7 @@ I am proficient across a variety of stacks including:
 Terraform         11 hrs 49 mins  ███████████████████░░░░░░   75.37 %
 YAML              1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
 Python            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Markdown          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Markdown          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 JSON              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
