@@ -24,10 +24,8 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-Python       10 mins         ████████░░░░░░░░░░░░░░░░░   32.27 %
-Terraform    5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-YAML         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+SSH Config   11 mins         █████████████░░░░░░░░░░░░   51.61 %
+Python       10 mins         ████████████░░░░░░░░░░░░░   48.39 %
 ```
 
 <!--END_SECTION:waka-->
