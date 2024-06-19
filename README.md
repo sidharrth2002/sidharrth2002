@@ -24,7 +24,11 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform         2 hrs 47 mins   ████████████████████████▒   97.79 %
+Python            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
