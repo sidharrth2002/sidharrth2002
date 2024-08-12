@@ -2,8 +2,6 @@
 
 Currently a data engineer at MoneyLion. 
 
-My research interests include multimodal fusion learning and speech processing. My Google Scholar profile can be found [here](https://scholar.google.com/citations?hl=en&user=9biRWAMAAAAJ).
-
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
 - Python (Tensorflow, Keras, Pytorch, Flask, FastAPI, OpenCV, Airflow)
