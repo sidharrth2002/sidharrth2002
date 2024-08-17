@@ -22,11 +22,11 @@ I am proficient across a variety of stacks including:
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    1 hr 38 mins    ██████████▓░░░░░░░░░░░░░░   42.07 %
-YAML         1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-Markdown     39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Makefile     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Terraform   1 hr 38 mins    ████████████████████▓░░░░   82.35 %
+YAML        18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Markdown    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Groovy      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
