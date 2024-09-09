@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidharrth 👋
 
-Currently a data engineer at MoneyLion. 
+Formerly a data engineer at MoneyLion. 
 
 ## Technical Proficiency
 I am proficient across a variety of stacks including:
