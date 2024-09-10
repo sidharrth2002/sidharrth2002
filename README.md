@@ -1,7 +1,7 @@
 ### Hi there, I'm Sidharrth 👋
 
-MPhil Candidate in Advanced Computer Science at the University of Cambridge. Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, research assistant at Monash University & Multimedia University. I graduated at the top of my class from Multimedia University in 2023, with a first-class honours degree in computer science. 
-
+- MPhil Candidate in Advanced Computer Science at the University of Cambridge
+- Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, research assistant at Monash University & Multimedia University.
 
 ### Connect with me
 
