@@ -1,18 +1,7 @@
 ### Hi there, I'm Sidharrth 👋
 
-Formerly a data engineer at MoneyLion. 
+MPhil Candidate in Advanced Computer Science at the University of Cambridge. Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, research assistant at Monash University & Multimedia University. I graduated at the top of my class from Multimedia University in 2023, with a first-class honours degree in computer science. 
 
-## Technical Proficiency
-I am proficient across a variety of stacks including:
-- Python (Tensorflow, Keras, Pytorch, Flask, FastAPI, OpenCV, Airflow)
-- Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native)
-- Dart (Flutter)
-- C, C++, Java (JavaFX), PHP
-- APIs: REST, GraphQL
-- UI: CSS3, Bootstrap, Bulma, Ant Design, Chakra UI
-- Databases: PostgreSQL, MongoDB, MySQL, Redis
-- ORMs: Sequelize, TypeORM, Mongoose
-- Cloud: GCP
 
 ### Connect with me
 
