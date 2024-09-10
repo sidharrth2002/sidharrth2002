@@ -1,7 +1,7 @@
 ### Hi there, I'm Sidharrth 👋
 
 - MPhil Candidate in Advanced Computer Science at the University of Cambridge
-- Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, research assistant at Monash University & Multimedia University
+- Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, research assistant at both Monash University & Multimedia University, and co-founder of Sambal SOS (Malaysia's first aid data crowdsourcing platform built during the pandemic) 
 - I work on affective intelligence, visual computing and big data infrastructure
 
 ### Connect with me
