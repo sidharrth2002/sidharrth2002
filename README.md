@@ -1,7 +1,8 @@
 ### Hi there, I'm Sidharrth 👋
 
-- MPhil Candidate in Advanced Computer Science at the University of Cambridge
-- Formerly a data engineer at MoneyLion, a data engineering intern at AirAsia, a research assistant at both Monash University & Multimedia University and co-founder of Sambal SOS (Malaysia's first aid data crowdsourcing platform built during the pandemic) 
+I hold an MPhil in Advanced Computer Science from the University of Cambridge (Distinction), and a First-Class Honours degree in Computer Science from Multimedia University, where I graduated top of my class.
+
+My interests lie at the intersection of biology and machine learning, with a focus on representation learning. Previously, I worked on large-scale data and platform engineering at MoneyLion.
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
